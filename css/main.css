@@ -1,0 +1,15 @@
+.login-body{
+    background-image: url(../images/register-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+    height: 100vh;
+}
+
+.forgot-body{
+        background-image: url(../images/login-bg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center right;
+        height: 100vh;
+    }
